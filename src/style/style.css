@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
 
 body {
-    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Playfair Display SC', serif;
 }
 
 .d-table {
@@ -67,18 +67,6 @@ Hero slider style
 
 .item-bg3 {
     background-image: url(http://patanpatola.com/images/home4/slider/3_3.jpg);
-}
-
-.item-bg4 {
-    background-image: url(http://patanpatola.com/images/home4/slider/3_4.jpg);
-}
-
-.item-bg5 {
-    background-image: url(http://patanpatola.com/images/home4/slider/3_5.jpg);
-}
-
-.item-bg6 {
-    background-image: url(http://patanpatola.com/images/home4/slider/3_6.jpg);
 }
 
 .hero-text {

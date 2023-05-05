@@ -7,146 +7,122 @@
   <?php include 'header.php'; ?>
 
   <!-- Hero Slider -->
-  <div id="home" class="hero-slider owl-carousel owl-theme">
-    <div class="single-hs-item item-bg1">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Gujrat in Western India is home</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <section>
+    <div id="home" class="hero-slider owl-carousel owl-theme">
+      <div class="single-hs-item item-bg1">
+        <div class="d-table">
+          <div class="d-tablecell">
+            <div class="hero-text">
+              <h1>Gujrat in Western India is home</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="single-hs-item item-bg2">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Hero Slider Item 2</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="single-hs-item item-bg2">
+        <div class="d-table">
+          <div class="d-tablecell">
+            <div class="hero-text">
+              <h1>Hero Slider Item 2</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="single-hs-item item-bg3">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Hero Slider Item 3</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="single-hs-item item-bg3">
+        <div class="d-table">
+          <div class="d-tablecell">
+            <div class="hero-text">
+              <h1>Hero Slider Item 3</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="single-hs-item item-bg4">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Hero Slider Item 4</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="single-hs-item item-bg5">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Hero Slider Item 5</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="single-hs-item item-bg6">
-      <div class="d-table">
-        <div class="d-tablecell">
-          <div class="hero-text">
-            <h1>Hero Slider Item 6</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <!-- <section class="my-section py-8 px-4 md:py-24 md:px-24 grid grid-cols-1 md:grid-cols-2 gap-8">
-  <div class="relative">
-    <img class="h-auto absolute top-0 left-0" src="src/img/img-1.png" alt="Workplace" width="350" />
-    <img class="h-auto cursor:pointer absolute top-0 left-0 md:mt-32 md:ml-40 hover:shadow-outline" src="src/img/img-2.png" width="350" />
-  </div>
-  <div class="container mx-auto max-w-2xl">
-    <h3 class="text-2xl md:text-3xl font-bold mb-4">Title</h3>
-    <p class="text-gray-600 text-base md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-  </div>
-</section>
-
-  <section class="my-section py-24 px-24 grid grid-cols-1 md:grid-cols-2 gap-8">
-    <div class="container mx-auto max-w-2xl pt-24">
-      <h3 class="text-2xl font-bold mb-4">title</h3>
-      <p class="text-gray-600">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-    </div>
-    <div class="relative">
-      <img class="absolute top-0 left-0" src="src/img/img-3.png" alt="Workplace" width="350" />
-      <img class="cursor:pointer absolute top-0 left-0 mt-32 ml-40 hover:shadow-outline" src="src/img/img-4.png" width="350" />
     </div>
   </section>
 
-  <section class="my-section py-24 px-24 grid grid-cols-1 md:grid-cols-2 gap-8">
-    <div class="relative">
-      <img class="absolute top-0 left-0" src="src/img/img-5.png" alt="Workplace" width="350" />
-      <img class="cursor:pointer absolute top-0 left-0 mt-32 ml-40 hover:shadow-outline" src="src/img/img-6.png" width="350" />
-    </div>
-    <div class="container mx-auto max-w-2xl pt-24">
-      <h3 class="text-2xl font-bold mb-4">title</h3>
-      <p class="text-gray-600">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
+  <section>
+    <div class="grid my-16  place-items-center grid grid-cols-1 lg:grid-cols-2 gap-5">
+      <div class="">
+        <p class="text-gray-600 text-base md:text-lg text-center lg:text-right">India has a rich and ancient heritage in
+          fine textiles. (Double Ikat) Patola from the area of Patan in the North Gujarat region of western India
+          glorifies this heritage. With its unique gem like qualities-gorgeous colours, designs and durability.
+          Its very appearance lures the connoisseur of fine textiles. It has no reverse side. Both the sides have equal
+          intensity of color and design. </p>
+      </div>
+
+      <div class="relative group">
+        <div
+          class="h-96 w-96 bg-center bg-no-repeat bg-cover transition-opacity ease-in-out group-hover:opacity-0 duration-700"
+          style="background-image:url('http://patanpatola.com/images/home4/slider/4_4.jpg')"></div>
+        <div
+          class="h-96 w-96 opacity-0 group-hover:opacity-100 bg-center bg-no-repeat bg-cover absolute top-0 left-0 opacity-0 hover:opacity-100 duration-700 ease-in-out"
+          style="background-image:url('http://patanpatola.com/images/home4/slider/5_5.jpg')"></div>
+      </div>
     </div>
   </section>
 
-  <section class="my-section py-24 px-24 grid grid-cols-1 md:grid-cols-2 gap-8">
-    <div class="container mx-auto max-w-2xl pt-24">
-      <h3 class="text-2xl font-bold mb-4">title</h3>
-      <p class="text-gray-600">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-    </div>
-    <div class="relative">
-      <img class="absolute top-0 left-0" src="src/img/img-7.png" alt="Workplace" width="350" />
-      <img class="cursor:pointer absolute top-0 left-0 mt-32 ml-40 hover:shadow-outline" src="src/img/img-8.png" width="400" />
-    </div>
-  </section> -->
 
-<!-- 
-  <section class="my-section py-8 px-4 md:py-24 md:px-24 lg:grid lg:grid-cols-2 gap-8">
-  <div class="relative">
-    <img class="h-auto absolute top-0 left-0" src="src/img/img-1.png" alt="Workplace" width="350" />
-    <img class="h-auto cursor:pointer absolute top-0 left-0 lg:mt-32 lg:ml-40 hover:shadow-outline" src="src/img/img-2.png" width="350" />
-  </div>
-  <div class="container mx-auto max-w-2xl lg:justify-self-end">
-    <h3 class="text-2xl md:text-3xl font-bold mb-4">Title</h3>
-    <p class="text-gray-600 text-base md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-  </div>
-</section>
-<section class="my-section py-24 px-4 lg:px-24 lg:grid lg:grid-cols-2 gap-8">
-  <div class="container mx-auto max-w-2xl pt-24 lg:justify-self-start">
-    <h3 class="text-2xl font-bold mb-4">title</h3>
-    <p class="text-gray-600">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-  </div>
-  <div class="relative">
-    <img class="absolute top-0 left-0" src="src/img/img-3.png" alt="Workplace" width="350" />
-    <img class="cursor:pointer absolute top-0 left-0 lg:mt-32 lg:ml-40 hover:shadow-outline" src="src/img/img-4.png" width="350" />
-  </div>
-</section> -->
 
-<section class="my-section py-8 px-4 lg:py-24 lg:px-24 grid grid-cols-1 md:grid-cols-2 gap-8">
-  <div class="relative">
-    <img class="absolute h-auto top-0 left-0" src="src/img/img-1.png" alt="Workplace" width="350" />
-    <img class="absolute h-auto cursor:pointer top-0 left-0 lg:mt-32 lg:ml-40 hover:shadow-outline" src="src/img/img-2.png" width="350" />
-  </div>
-  <div class="container mx-auto max-w-2xl">
-    <h3 class="text-2xl font-bold mb-4 md:text-3xl">Title</h3>
-    <p class="text-base text-gray-600 md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum itaque dolore eveniet ex quod ipsam cum, iusto vitae quae earum?</p>
-  </div>
-</section>
+
+  <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div class="flex flex-col justify-center items-center lg:items-start">
+      <img class="w-full h-auto mb-8 lg:mb-0 lg:w-96 lg:ml-0 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl"
+        src="src/img/img-1.png" alt="Workplace" />
+      <img class="w-full h-auto lg:w-96 lg:ml-12 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl" src="src/img/img-2.png" />
+    </div>
+    <div class="flex flex-col justify-center items-center lg:items-end">
+      <h3 class="text-2xl md:text-3xl font-bold mb-4">Visitors</h3>
+      <p class="text-gray-600 text-base md:text-lg text-center lg:text-right">Patan Patola has been popularized by many
+        well-known individuals, including actor Amitabh Bachchan, spiritual leader Pramukh Swami, and the team from
+        foreign TV. They have all appreciated the artistry and uniqueness of these exquisite sarees, which have become a
+        symbol of India's rich cultural heritage.</p>
+    </div>
+  </section>
+
+  <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div class="flex flex-col justify-center items-center lg:items-start order-last lg:order-first">
+      <h3 class="text-2xl md:text-3xl font-bold mb-4">Awards</h3>
+      <p class="text-gray-600 text-base md:text-lg text-center lg:text-left">We have participated and displayed
+        patolaloom and given live demonstration of weaving & tie/die process in “the silk road 2002” Smithsonian folk
+        life festival in Washington D.C.-U.S.A. at Mol ground in June-July 2002.</p>
+    </div>
+    <div class="flex flex-col justify-center items-center lg:items-end order-first lg:order-last">
+      <img class="w-full h-auto mb-8 lg:mb-0 lg:w-96 lg:mr-0 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl"
+        src="src/img/img-3.png" alt="Workplace" />
+      <img class="w-full h-auto lg:w-96 lg:mr-12 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl" src="src/img/img-4.png" />
+    </div>
+  </section>
+
+  <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div class="flex flex-col justify-center items-center lg:items-start">
+      <img class="w-full h-auto mb-8 lg:mb-0 lg:w-96 lg:ml-0 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl"
+        src="src/img/img-5.png" alt="Workplace" />
+      <img class="w-full h-auto lg:w-96 lg:ml-12 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl" src="src/img/img-6.png" />
+    </div>
+    <div class="flex flex-col justify-center items-center lg:items-end">
+      <h3 class="text-2xl md:text-3xl font-bold mb-4">Sarees</h3>
+      <p class="text-gray-600 text-base md:text-lg text-center lg:text-right">Patan Patola is a hand-woven saree made
+        from silk in Patan, Gujarat. It features vibrant colors and intricate designs created using a double ikat
+        weaving technique. Each saree takes months to complete and is a prized possession among collectors of Indian
+        textiles.</p>
+    </div>
+  </section>
+
+  <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
+    <div class="flex flex-col justify-center items-center lg:items-start order-last lg:order-first">
+      <h3 class="text-2xl md:text-3xl font-bold mb-4">Museum</h3>
+      <p class="text-gray-600 text-base md:text-lg text-center lg:text-left">The Sanskrit word tapasya, which roughly
+        translates into penance of visceral intensity and frit through years (decades, even centuries) of meditation,
+        may describe the karmic reality of Patan’s Salvi family .We belong to a community of double Ikat weavers.</p>
+    </div>
+    <div class="flex flex-col justify-center items-center lg:items-end order-first lg:order-last">
+      <img class="w-full h-auto mb-8 lg:mb-0 lg:w-96 lg:mr-0 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl"
+        src="src/img/img-7.png" alt="Workplace" />
+      <img class="w-full h-auto lg:w-96 lg:mr-12 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl" src="src/img/img-8.png" />
+    </div>
+  </section>
 
 
 
