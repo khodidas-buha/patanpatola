@@ -152,7 +152,7 @@
         </div>
       </div>
     </div>
-</section>
+  </section>
 
   <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
     <div class="flex flex-col justify-center items-center lg:items-start">
@@ -190,6 +190,8 @@
 
 
   <?php include 'footer.php'; ?>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.5.0/glide.min.js'></script>
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js'></script>
   <script src="src/script/script.js"></script>
