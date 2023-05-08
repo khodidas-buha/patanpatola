@@ -224,49 +224,5 @@ Hero slider style
   }
   
   /* slider award */
-  .glide__arrow {
-    position: absolute;
-    display: block;
-    /* top: 50%; */
-    z-index: 2;
-    opacity: 1;
-    transform: translateY(-500%);
-  }
-  
-  .glide_arrow {
-    position: absolute;
-    display: block;
-    z-index: 2;
-    top: 50%;
-    opacity: 1;
-    transform: translateY(-50%);
-  }
-  
-  meter {
-    margin: 0 1rem;
-    width: 20rem;
-    height: 2rem;
-  }
   
   
-  @media screen and (max-width: 767px) {
-    .glide__arrow {
-      position: absolute;
-      display: block;
-      /* top: 50%; */
-      z-index: 2;
-      opacity: 1;
-      transform: translateY(-800%);
-    }
-  }
-  
-  @media screen and (max-width: 992px) {
-    .glide__arrow {
-      position: absolute;
-      display: block;
-      /* top: 50%; */
-      z-index: 2;
-      opacity: 1;
-      transform: translateY(-400%);
-    }
-  }

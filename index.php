@@ -53,11 +53,10 @@
       </div>
 
       <div class="relative group">
-        <div
-          class="h-96 w-96 bg-center bg-no-repeat bg-cover shadow-xl rounded max-w-full align-middle border-none"
+        <div class="h-96 w-96 bg-center bg-no-repeat bg-cover shadow-xl rounded max-w-full align-middle border-none"
           style="background-image:url('src/img/about.jpg')"></div>
-        
-    </div>
+
+      </div>
   </section>
 
   <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
@@ -75,84 +74,138 @@
     </div>
   </section>
 
-  <section class="bg-blue-50 mt-2">
+  <section class="bg-red-50 mt-2">
     <div class="container mx-auto pt-20 pb-8 md:pt-16 md:pb-5 md:pb-0">
       <div class="text-center">
-        <h2 class="text-black font-bold text-3xl md:text-4xl capitalize">
-          Meet Our <span class="text-teal-500">Team</span>
+        <h2 class="text-red-950 font-bold text-3xl md:text-4xl capitalize">
+          Awards
         </h2>
       </div>
     </div>
-    <div class="glide2 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
-      <div class="glide__track" data-glide-el="track">
-        <ul class="glide__slides">
-          <li class="glide__slide bg-white">
-            <div class="flex flex-wrap items-center">
-              <div class="w-full sm:w-1/2 p-8">
-                <h1 class="text-lg font-bold text-gray-800 mb-2">Heidi Kristo </h1>
-                <h3 class="text-base font-medium text-gray-600 mb-2">Yoga Teacher</h3>
-                <p class="text-sm text-gray-500">Yoga & Therapy Certificate of <br> Uttarakhand University Sanskirt</p>
-              </div>
-              <div class="w-full sm:w-1/2 p-6 flex justify-center">
-                <img src="img/team1.png" alt="" class="max-w-full h-auto">
-              </div>
-            </div>
-          </li>
-          <li class="glide__slide bg-white">
-            <div class="flex flex-wrap items-center">
-              <div class="w-full sm:w-1/2 p-8">
-                <h1 class="text-lg font-bold text-gray-800 mb-2">Elena Brower</h1>
-                <h3 class="text-base font-medium text-gray-600 mb-2">Yoga Teacher</h3>
-                <p class="text-sm text-gray-500">Yoga & Therapy Certificate of <br> Uttarakhand University Sanskirt</p>
-              </div>
-              <div class="w-full sm:w-1/2 p-6 flex justify-center">
-                <img src="img/team2.png" alt="" class="max-w-full h-auto">
-              </div>
-            </div>
-          </li>
-          <li class="glide__slide bg-white">
-            <div class="flex flex-wrap items-center">
-              <div class="w-full sm:w-1/2 p-8">
-                <h1 class="text-lg font-bold text-gray-800 mb-2">Noah Maze</h1>
-                <h3 class="text-base font-medium text-gray-600 mb-2">Yoga Teacher</h3>
-                <p class="text-sm text-gray-500">Yoga & Therapy Certificate of <br> Uttarakhand University Sanskirt</p>
-              </div>
-              <div class="w-full sm:w-1/2 p-6 flex justify-center">
-                <img src="img/team3.png" alt="" class="max-w-full h-auto">
-              </div>
-            </div>
-          </li>
-          <li class="glide__slide bg-white">
-            <div class="flex flex-wrap items-center">
-              <div class="w-full sm:w-1/2 p-8">
-                <h1 class="text-lg font-bold text-gray-800 mb-2">Seane Corn</h1>
-                <h3 class="text-base font-medium text-gray-600 mb-2">Yoga Teacher</h3>
-                <p class="text-sm text-gray-500">Yoga & Therapy Certificate of <br> Uttarakhand University Sanskirt</p>
-              </div>
-              <div class="w-full sm:w-1/2 p-6 flex justify-center">
-                <img src="img/team4.png" alt="" class="max-w-full h-auto">
-              </div>
-            </div>
-          </li>
-        </ul>
-        <div class="glide__arrows" data-glide-el="controls">
-          <button class="glide__arrow glide__arrow--left left-4 focus:outline-none" data-glide-dir="<">
-            <div
-              class="group rounded-full h-9 w-9 bg-[#3e9b9e] border-2 border-[#3e9b9e] font-bold text-sm sm:text-lg relative overflow-hidden focus:outline-none">
 
-              <i class="fas fa-angle-left text-white text-2xl"></i>
+    <div id="controls-carousel" class="relative w-full" data-carousel="static">
+      <!-- Carousel wrapper -->
+      <div class="relative h-screen overflow-hidden rounded-lg md:h-96">
+        <!-- Item 1 -->
+        <div class="hidden h-full duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-4 md:p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Certificate of Appreciation given by Akhil
+                Bharat Rashtriya Mahasabha in 1939 at Haripura</h1>
             </div>
-          </button>
-          <button class="glide__arrow glide__arrow--right right-4 focus:outline-none" data-glide-dir=">">
-            <div
-              class="group rounded-full h-9 w-9 bg-[#3e9b9e] border-2 border-[#3e9b9e] font-bold text-sm sm:text-lg relative overflow-hidden focus:outline-none">
-              <i class="fas fa-angle-right text-white text-2xl"></i>
+            <div class="w-full sm:w-1/2 p-4 md:p-6 flex justify-center">
+              <img src="src/img/award1.png" alt="" class="rounded-md max-w-full h-auto">
             </div>
-          </button>
+          </div>
+        </div>
+
+        <!-- Item 2 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Award from Cottage Industries, Baroda State
+                in 1946</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award2.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
+        </div>
+        <!-- Item 3 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">National Award – 1978 by Hon. President
+                NeelamSanjiviya Reddy</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award3.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
+        </div>
+        <!-- Item 4 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">We have been honoured by hon. Minister of
+                Youth service and Cultural Activities, Mr. Manoharsinhji Jadeja in 1983</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award4.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
+        </div>
+        <!-- Item 5 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Vishvakarma Award – 1984 by Prime Minister
+                IndiraGandhi</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award5.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
+        </div>
+        <!-- Item 6 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">National Award – 1987 by hon. President
+                R.VenkatRaman</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award6.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
+        </div>
+        <!-- Item 7 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item>
+          <div class="flex flex-wrap items-center">
+            <div class="w-full sm:w-1/2 p-8">
+              <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Award from Mehsana Art and Culture Society
+                in 1990</h1>
+
+            </div>
+            <div class="w-full sm:w-1/2 p-6 flex justify-center">
+              <img src="src/img/award7.png" alt="" class="rounded-md max-w-full h-auto">
+            </div>
+          </div>
         </div>
       </div>
+      <!-- Slider controls -->
+      <button type="button"
+        class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
+        data-carousel-prev>
+        <span
+          class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-red-800 group-hover:bg-red-900 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+          <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor"
+            viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span class="sr-only">Previous</span>
+        </span>
+      </button>
+      <button type="button"
+        class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
+        data-carousel-next>
+        <span
+          class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-red-800 group-hover:bg-red-900 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+          <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor"
+            viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+          </svg>
+          <span class="sr-only">Next</span>
+        </span>
+      </button>
     </div>
   </section>
+
 
   <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
     <div class="flex flex-col justify-center items-center lg:items-start">
@@ -168,6 +221,11 @@
         textiles.</p>
     </div>
   </section>
+
+
+
+
+  
 
   <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
     <div class="flex flex-col justify-center items-center lg:items-start order-last lg:order-first">
@@ -195,6 +253,8 @@
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js'></script>
   <script src="src/script/script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
+
 </body>
 
 </html>
