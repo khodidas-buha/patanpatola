@@ -3,8 +3,8 @@
     <div class="flex antialiased text-gray-900 bg-gray-100 dark:bg-dark dark:text-light">
         <!-- Loading screen -->
         <div x-ref="loading"
-            class="fixed inset-0 z-50 flex items-center justify-center text-2xl font-semibold text-white bg-blue-600">
-            Loading.....
+            class="fixed inset-0 z-50 flex items-center justify-center text-2xl font-semibold text-white bg-red-100">
+           <img src="src/img/logo.jpg" alt="">
         </div>
 
         <!-- Sidebar -->
