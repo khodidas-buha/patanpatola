@@ -4,7 +4,8 @@
         <!-- Loading screen -->
         <div x-ref="loading"
             class="fixed inset-0 z-50 flex items-center justify-center text-2xl font-semibold text-white bg-red-100">
-           <img src="src/img/logo.jpg" alt="">
+           <!-- <img src="src/img/logo.jpg" alt=""> -->
+           
         </div>
 
         <!-- Sidebar -->
@@ -41,7 +42,7 @@
                     <a href="#" class="flex items-center mt-4 ml-8">
                         <span>Home</span>
                     </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <a href="about.php" class="flex items-center mt-4 ml-8">
                         <span>About us</span>
                     </a>
                     <a href="#" class="flex items-center mt-4 ml-8">
