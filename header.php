@@ -39,7 +39,7 @@
                     </button>
                 </div>
                 <nav class="flex flex-col flex-1 w-64 p-4">
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <a href="index.php" class="flex items-center mt-4 ml-8">
                         <span>Home</span>
                     </a>
                     <a href="about.php" class="flex items-center mt-4 ml-8">
