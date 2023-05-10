@@ -49,8 +49,8 @@
                         <span>product</span>
                     </a>
                     <div class="ml-10 mt-4">
-                        <a href="Patola.php" class=""> <i class="fa-solid fa-circle"></i>Patola</a> <br>
-                        <a href="#" class=""><i class="fa-solid fa-circle"></i>Scarf</a>
+                        <a href="Patola.php" class=""> Patola</a><br>
+                        <a href="scarf.php" class="mt-2"> Scarf</a>
                     </div>
                     <a href="#" class="flex items-center mt-4 ml-8">
                         <span>Awards</span>
