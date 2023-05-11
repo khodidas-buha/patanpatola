@@ -83,6 +83,357 @@
 
 
 
+  <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">Certificate of Appreciation</h3>
+        <p class="text-gray-500 px-4">Given by Akhil Bharat Rashtriya Mahasabha in 1939 at Haripura</p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Award from Cottage Industries
+        </h3>
+        <p class="text-gray-500 px-4">
+          1946 Award from Cottage Industries, Baroda State: Recognition for excellence in craftsmanship and artisanal
+          skills.
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          National Award – 1978
+        </h3>
+        <p class="text-gray-500 px-4">
+          by Hon. President NeelamSanjiviya Reddy
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Youth service and Cultural Activities
+        </h3>
+        <p class="text-gray-500 px-4">
+          We have been honoured by hon. Minister of Youth service and Cultural Activities, Mr. Manoharsinhji Jadeja in
+          1983
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Vishvakarma Award
+        </h3>
+        <p class="text-gray-500 px-4">
+          Vishvakarma Award – 1984 by Prime Minister IndiraGandhi
+        </p>
+      </div>
+
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          National Award
+        </h3>
+        <p class="text-gray-500 px-4">
+          National Award – 1987 by hon. President R.VenkatRaman
+
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Art and Culture Society
+        </h3>
+        <p class="text-gray-500 px-4">
+          Award from Mehsana Art and Culture Society in 1990
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Merit Certificate – 1991
+        </h3>
+        <p class="text-gray-500 px-4">
+          Outstanding achievement recognized with a merit certificate in 1991.
+        </p>
+      </div>
+
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          National Award
+        </h3>
+        <p class="text-gray-500 px-4">
+          1997 by hon. Prime Minister Atal Vihari Vajpayee
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Shilp Guru Title
+        </h3>
+        <p class="text-gray-500 px-4">
+          "2002 Shilp Guru Title: Honored by President Dr. Abdul Kalam for exemplary craftsmanship.
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          2003 Memento Honor from Honorable CM
+        </h3>
+        <p class="text-gray-500 px-4">
+          We have been honoured by the hon. Chief Minister Narendra Modi of Gujarat with Memento in 2003
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          2005 Malaysian Minister Memento
+        </h3>
+        <p class="text-gray-500 px-4">
+          Momento given by Malysian Minister in 2005
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          masters of the cloth award
+        </h3>
+        <p class="text-gray-500 px-4">
+          MASTERS OF THE CLOTH AWARD Given by Garden Silk Mills in Nov. 2005
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Shilp Guru title
+        </h3>
+        <p class="text-gray-500 px-4">
+          2009 by Hon. President Smt. Pratibha Devi Patil
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          Merit Certificate in 2011
+        </h3>
+        <p class="text-gray-500 px-4">
+          2011 merit certificate: recognition for outstanding achievement in respective field.
+        </p>
+      </div>
+
+      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
+        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+        <h3 class="text-xl font-bold p-4">
+          2014 Gujarat Honor
+        </h3>
+        <p class="text-gray-500 px-4">
+          Received the honour by Chief Minister of Gujarat Smt. Anandiben Patel in 2014
+        </p>
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      <div class="h-500 w-500 relative">
+        <img src="src/img/1.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Receiving momento from CM Shri Narendra Modi
+          </p>
+        </div>
+      </div>
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/2.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            National award for master craftsmen for 1997
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/3.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            National award for master craftsmen for 1998
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/4.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Shilp Guru Award form Dr.Abdul kalam 2002
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/5.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Receiving the honour by shri o.p. kohil and smt anandiben Patel
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/6.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            National award for master craftsmen for 2005
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/7.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            National award for master craftsmen for 2005
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/8.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Momento given by Malysian Minister in 2005
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/9.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Momento given From Smt. Anandiben in 2005
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/10.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            MASTERS OF THE CLOTH AWARD in Nov. 2005
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/11.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Award from cottage industries baroda state 1946
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/12.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Ministery of texttiles from certificate of mert 1991
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/13.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Ministery of texttiles from certificate of mert 1991
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/14.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Yuvak Seva and Sanskrutik Pravuti vibhag
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/16.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Ministery of texttiles National merit certificate 2011
+          </p>
+        </div>
+      </div>
+
+
+      <div class="h-500 w-500 relative">
+        <img src="src/img/17.png" alt="">
+        <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
+          <!-- <h1 class="text-white font-semibold text-4xl">Kittens are cute</h1> -->
+          <p class="text-white text-xl">
+            Receiving the Award from hon.President of india on 2012
+          </p>
+        </div>
+      </div>
+
+
+
+    </div>
+  </section>
+
+
   <?php include 'footer.php'; ?>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js'></script>
