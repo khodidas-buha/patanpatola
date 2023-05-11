@@ -8,4 +8,4 @@ $('.hero-slider').owlCarousel({
     dots: true,
     })
 
-    
+// award slider

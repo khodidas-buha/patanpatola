@@ -50,9 +50,9 @@
                     </a>
                     <div class="ml-10 mt-4">
                         <a href="Patola.php" class=""> Patola</a><br>
-                        <a href="scarf.php" class="mt-2"> Scarf</a>
+                        <a href="scarf.php" class="mt-4"> Scarf</a>
                     </div>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <a href="awards.php" class="flex items-center mt-4 ml-8">
                         <span>Awards</span>
                     </a>
                     <a href="#" class="flex items-center mt-4 ml-8">
