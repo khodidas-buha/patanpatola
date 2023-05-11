@@ -84,16 +84,33 @@
 
 
   <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5">
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
-        <h3 class="text-xl font-bold p-4">Certificate of Appreciation</h3>
-        <p class="text-gray-500 px-4">Given by Akhil Bharat Rashtriya Mahasabha in 1939 at Haripura</p>
+
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
+        <h3 class="text-xl font-bold p-4">
+          Certificate of Appreciation
+        </h3>
+        <p class="text-gray-500 px-4">
+          Given by Akhil Bharat Rashtriya Mahasabha in 1939 at Haripura
+        </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Award from Cottage Industries
         </h3>
@@ -103,8 +120,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           National Award – 1978
         </h3>
@@ -113,8 +136,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Youth service and Cultural Activities
         </h3>
@@ -124,8 +153,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Vishvakarma Award
         </h3>
@@ -135,8 +170,14 @@
       </div>
 
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           National Award
         </h3>
@@ -146,8 +187,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Art and Culture Society
         </h3>
@@ -156,8 +203,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Merit Certificate – 1991
         </h3>
@@ -167,8 +220,14 @@
       </div>
 
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           National Award
         </h3>
@@ -177,8 +236,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Shilp Guru Title
         </h3>
@@ -187,8 +252,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           2003 Memento Honor from Honorable CM
         </h3>
@@ -197,8 +268,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           2005 Malaysian Minister Memento
         </h3>
@@ -207,8 +284,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           masters of the cloth award
         </h3>
@@ -217,8 +300,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Shilp Guru title
         </h3>
@@ -227,8 +316,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           Merit Certificate in 2011
         </h3>
@@ -237,8 +332,14 @@
         </p>
       </div>
 
-      <div class="p-4  bg-white shadow-md transition duration-300 hover:bg-red-200"
-        style="background-image:url('src/img/icon.png'); background-repeat: no-repeat; background-position: right;">
+      <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
+        <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
+          <div
+            class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
+            style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
+
+          </div>
+        </div>
         <h3 class="text-xl font-bold p-4">
           2014 Gujarat Honor
         </h3>
@@ -251,9 +352,8 @@
 
   </section>
 
-
   <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4">
       <div class="h-500 w-500 relative">
         <img src="src/img/1.png" alt="">
         <div class="absolute bottom-0 px-4 py-3 bg-red-900 bg-opacity-60 w-full">
