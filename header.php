@@ -55,7 +55,7 @@
                     <a href="awards.php" class="flex items-center mt-4 ml-8">
                         <span>Awards</span>
                     </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <a href="materials.php" class="flex items-center mt-4 ml-8">
                         <span>Materials</span>
                     </a>
                     <a href="#" class="flex items-center mt-4 ml-8">
@@ -64,13 +64,13 @@
                     <a href="#" class="flex items-center mt-4 ml-8">
                         <span>Process</span>
                     </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <!-- <a href="#" class="flex items-center mt-4 ml-8">
                         <span>History</span>
-                    </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    </a> -->
+                    <!-- <a href="#" class="flex items-center mt-4 ml-8">
                         <span>Photo Gallery</span>
-                    </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    </a> -->
+                    <a href="contact.php" class="flex items-center mt-4 ml-8">
                         <span>Contact Us</span>
                     </a>
                 </nav>
