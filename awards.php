@@ -83,9 +83,14 @@
 
 
 
-  <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5">
+  <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-4">
 
+    <div class="text-center pb-4">
+      <h2 class="text-red-950 font-bold text-3xl md:text-4xl capitalize">
+        Awards
+      </h2>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5">
 
       <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
         <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">

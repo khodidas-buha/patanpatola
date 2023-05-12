@@ -13,7 +13,7 @@
         <div class="d-table">
           <div class="d-tablecell">
             <div class="hero-text">
-              <h1>Gujrat in Western India is home</h1>
+              <h1>Gujarat in Western India is home</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>

@@ -46,7 +46,7 @@
                         <span>About us</span>
                     </a>
                     <a href="product.php" class="flex items-center mt-4 ml-8">
-                        <span>product</span>
+                        <span>Product</span>
                     </a>
                     <div class="ml-10 mt-4">
                         <a href="Patola.php" class=""> Patola</a><br>

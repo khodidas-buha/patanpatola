@@ -98,9 +98,9 @@
     </section>
 
     <section>
-        <div class="min-w-screen min-h-screen flex items-center p-2 lg:p-10 overflow-hidden relative">
+        <div class="min-w-screen min-h-screen flex items-center p-2 overflow-hidden relative">
             <div
-                class="w-full max-w-6xl rounded bg-white shadow-xl p-10 lg:p-20 mx-auto text-gray-800 relative md:text-left">
+                class="w-full max-w-6xl rounded p-8 mx-auto text-gray-800 relative md:text-left">
                 <div class="md:flex items-center -mx-10">
                     <div class="w-full md:w-1/2 px-8 mb-10 md:mb-0">
                         <div class="relative">
@@ -111,23 +111,21 @@
                     <div class="w-full md:w-1/2 px-10">
                         <div class="mb-10">
                             <h1 class="font-bold uppercase text-2xl mb-5">Mens's Sacrf</h1>
-                            <p class="text-sm">Handwoven Men's Scarf from Patan Patola: Traditional double ikat
-                                technique, vibrant colors, intricate motifs, luxurious silk/cotton, reversible design.
-                                Cultural heritage showcased in 25 words.<a href="#"
+                            <p class="mt-8 mb-8">Patan Patola scarf is a traditional and highly esteemed textile product
+                                originating from the
+                                city of Patan in Gujarat, India. It is renowned for its exquisite craftsmanship, vibrant
+                                colors, and intricate
+                                designs, making it a coveted accessory in the fashion world.
+                            </p>
+                            <p class="mt-8 mb-8">The Patan Patola scarf is meticulously handwoven using the double ikat
+                                technique, which
+                                involves dyeing the warp and weft threads separately before weaving them together. This
+                                intricate process
+                                results in a visually stunning pattern on both sides of the fabric, with no distinction
+                                between the front and
+                                back.<a href="#"
                                     class="opacity-50 text-gray-900 hover:opacity-100 inline-block text-xs leading-none border-b border-gray-900">MORE
                                     <i class="mdi mdi-arrow-right"></i></a></p>
-                        </div>
-                        <div>
-                            <div class="inline-block align-bottom mr-5">
-                                <span class="text-2xl leading-none align-baseline">Rs</span>
-                                <span class="font-bold text-5xl leading-none align-baseline">5999</span>
-                                <!-- <span class="text-2xl leading-none align-baseline">.99</span> -->
-                            </div>
-                            <div class="inline-block align-bottom">
-                                <button
-                                    class="bg-red-300 opacity-75 hover:opacity-100 text-yellow-900 hover:text-gray-900 rounded-full px-10 py-2 font-semibold"><i
-                                        class="mdi mdi-cart -ml-2 mr-2"></i> BUY NOW</button>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -137,23 +135,22 @@
                     <div class="w-full md:w-1/2 px-10">
                         <div class="mb-10">
                             <h1 class="font-bold uppercase text-2xl mb-5">Sarres</h1>
-                            <p class="text-sm">Patan Patola saree is a handwoven silk masterpiece from Gujarat, India.
-                                Renowned for its vibrant colors, intricate double ikat patterns, and rich heritage, it
-                                epitomizes timeless elegance and skilled craftsmanship.<a href="#"
-                                    class="opacity-50 text-gray-900 hover:opacity-100 inline-block text-xs leading-none border-b border-gray-900">MORE
-                                    <i class="mdi mdi-arrow-right"></i></a></p>
-                        </div>
-                        <div>
-                            <div class="inline-block align-bottom mr-5">
-                                <span class="text-2xl leading-none align-baseline">Rs</span>
-                                <span class="font-bold text-5xl leading-none align-baseline">9999</span>
-                                <!-- <span class="text-2xl leading-none align-baseline">.99</span> -->
-                            </div>
-                            <div class="inline-block align-bottom">
-                                <button
-                                    class="bg-red-300 opacity-75 hover:opacity-100 text-yellow-900 hover:text-gray-900 rounded-full px-10 py-2 font-semibold"><i
-                                        class="mdi mdi-cart -ml-2 mr-2"></i> BUY NOW</button>
-                            </div>
+                            <p class="mt-8 mb-8">Introducing the exquisite Patan Patoda saree collection, featuring the
+                                captivating Navratna
+                                Green (CH), Shrikar Bhat (N), and Navratna Bhat Blue (N) saris. Immerse yourself in the
+                                rich heritage and
+                                timeless beauty of these traditional Indian garments.</p>
+                            <p class="mt-8 mb-8">The Navratna Green (CH) saree from the Patan Patoda collection is a
+                                true embodiment of
+                                elegance and grace. The vibrant green hue is reminiscent of lush emerald gardens,
+                                capturing the essence of
+                                nature's bounty. Adorned with intricate patterns and delicate motifs, this saree is a
+                                masterpiece that showcases
+                                the artistry of skilled craftsmen.</p>
+                            <a href="#"
+                                class="opacity-50 text-gray-900 hover:opacity-100 inline-block text-xs leading-none border-b border-gray-900">MORE
+                                <i class="mdi mdi-arrow-right"></i></a>
+                            </p>
                         </div>
                     </div>
                     <div class="w-full md:w-1/2 px-8 mb-10 md:mb-0">
