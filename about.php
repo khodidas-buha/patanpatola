@@ -362,7 +362,7 @@
                 auspicious symbols are found in them.
             </p>
             <h1 class="text-center text-red-950 font-bold text-xl md:text-2xl capitalize mb-8 mt-8">
-                INTRODUCTION
+                Imtroduction
             </h1>
             <p class="mt-4 mb-4 text-center">
                 India has a rich and ancient heritage in fine textiles. (Double Ikat) Patola from the area of patan in

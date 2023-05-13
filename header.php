@@ -58,12 +58,12 @@
                     <a href="materials.php" class="flex items-center mt-4 ml-8">
                         <span>Materials</span>
                     </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <a href="visitors.php" class="flex items-center mt-4 ml-8">
                         <span>Visitors</span>
                     </a>
-                    <a href="#" class="flex items-center mt-4 ml-8">
+                    <!-- <a href="#" class="flex items-center mt-4 ml-8">
                         <span>Process</span>
-                    </a>
+                    </a> -->
                     <!-- <a href="#" class="flex items-center mt-4 ml-8">
                         <span>History</span>
                     </a> -->

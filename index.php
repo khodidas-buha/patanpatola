@@ -57,6 +57,7 @@
           style="background-image:url('src/img/about.jpg')"></div>
 
       </div>
+    </div>
   </section>
 
   <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32 grid grid-cols-1 lg:grid-cols-2 gap-8">
@@ -265,8 +266,8 @@
         </div> -->
       </div>
   </section>
-  
-  <section class="mt-8" >
+
+  <section class="mt-8">
     <div class="relative flex flex-col-reverse py-16 lg:pt-0 lg:flex-col lg:pb-0">
       <div
         class="inset-y-0 top-0 right-0 z-0 w-full max-w-xl px-4 mx-auto md:px-0 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-7/12 lg:max-w-full lg:absolute xl:px-0">

@@ -95,10 +95,11 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Email Address</h4>
                                     <p class="text-body-color text-base">
-                                        patanpatola@gmail.com
+                                    <a href="mailto:patanpatola@gmail.com">patanpatola@gmail.com</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                        krusdesigns@gmail.com
+                                    <a href="mailto:krusdesigns@gmail.com">krusdesigns@gmail.com</a>
+                                        
                                     </p>
                                 </div>
                             </div>
@@ -123,10 +124,14 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Phone Number</h4>
                                     <p class="text-body-color text-base">
-                                        +91 02766 232274
+                                      
+                                        <a href="tel:+9102766"> +91 02766</a>,
+                                    <a href="tel:232274"> 232274</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                        +91 231369, 221369
+                                    <a href="tel:+91231369"> +91 231369</a>,
+                                    <a href="tel:221369"> 221369</a>
+                                      
                                     </p>
                                 </div>
                             </div>
@@ -143,10 +148,11 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Mobile Number</h4>
                                     <p class="text-body-color text-base">
-                                        +91 9898775748
+                                    <a href="tel:+919898775748"> +91 9898775748</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                        +91 9979462607
+                                    <a href="tel:+91 9979462607"> +91 9979462607</a>
+                                      
                                     </p>
                                 </div>
                             </div>
