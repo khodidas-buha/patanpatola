@@ -48,49 +48,25 @@
     </div>
   </section>
 
-  <!--
-  This component uses @tailwindcss/forms and @tailwindcss/typography
-
-  yarn add @tailwindcss/forms @tailwindcss/typography
-  npm install @tailwindcss/forms @tailwindcss/typography
-
-  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')]
-
-  @layer components {
-    .no-spinner {
-      -moz-appearance: textfield;
-    }
-
-    .no-spinner::-webkit-outer-spin-button,
-    .no-spinner::-webkit-inner-spin-button {
-      margin: 0;
-      -webkit-appearance: none;
-    }
-  }
--->
-
   <section>
     <div class="relative mx-auto max-w-screen-xl px-4 py-8">
       <div class="grid grid-cols-1 items-start gap-8 md:grid-cols-2">
         <div class="grid grid-cols-2 gap-4 md:grid-cols-1">
-          <img alt="Les Paul"
-            src="src/img/s1.png"
-            class="aspect-square w-full rounded-xl object-cover" />
+          <img alt="Les Paul" src="src/img/s1.png" class="aspect-square w-full rounded-xl object-cover" />
         </div>
 
-        <div class="sticky top-0">
+        <div class="">
           <strong
-            class="rounded-full border border-blue-600 bg-gray-100 px-3 py-0.5 text-xs font-medium tracking-wide text-blue-600">
+            class="rounded-full border border-red-900 bg-red-50 px-3 py-0.5 text-xs font-medium tracking-wide text-red-900">
             Pre Order
           </strong>
 
           <div class="mt-8 flex justify-between">
             <div class="max-w-[35ch] space-y-2">
               <h1 class="text-xl font-bold sm:text-2xl">
-                Fun Product That Does Something Cool
-              </h1>
+                Chhabadi 10 Elephant (CH) </h1>
 
-              <p class="text-sm">Highest Rated Product</p>
+              <!-- <p class="text-sm">Highest Rated Product</p> -->
 
               <div class="-ms-0.5 flex">
                 <svg class="h-5 w-5 text-yellow-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
@@ -125,16 +101,21 @@
               </div>
             </div>
 
-            <p class="text-lg font-bold">$119.99</p>
+            <p class="text-lg font-bold">&#x20B9; 119999</p>
           </div>
 
           <div class="mt-4">
             <div class="prose max-w-none">
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                veniam dicta beatae eos ex error culpa delectus rem tenetur,
-                architecto quam nesciunt, dolor veritatis nisi minus inventore,
-                rerum at recusandae?
+                The Patan Patolu Chhabadi 10 Elephant features a vibrant and colorful design that showcases the rich
+                cultural heritage of Gujarat. It is crafted using high-quality silk fabric, which adds a luxurious and
+                elegant touch to the overall appearance of the product.
+              </p>
+              <p>
+                The highlight of this product is the intricate Patolu weaving technique used to create the elephant
+                motif. Patolu is a traditional form of silk weaving that involves creating intricate patterns and
+                designs on the fabric. The artisans skillfully weave the silk threads to form the mesmerizing elephant
+                design, incorporating vibrant colors, geometric shapes, and detailed motifs.
               </p>
             </div>
 
@@ -143,7 +124,7 @@
 
           <form class="mt-8">
             <fieldset>
-              <legend class="mb-1 text-sm font-medium">Color</legend>
+              <legend class="mb-1 text-sm font-medium">material</legend>
 
               <div class="flex flex-wrap gap-1">
                 <label for="color_tt" class="cursor-pointer">
@@ -151,7 +132,7 @@
 
                   <span
                     class="group inline-block rounded-full border px-3 py-1 text-xs font-medium peer-checked:bg-black peer-checked:text-white">
-                    Texas Tea
+                    Silk
                   </span>
                 </label>
 
@@ -160,7 +141,7 @@
 
                   <span
                     class="group inline-block rounded-full border px-3 py-1 text-xs font-medium peer-checked:bg-black peer-checked:text-white">
-                    Fiesta Red
+                    Silk
                   </span>
                 </label>
 
@@ -169,7 +150,7 @@
 
                   <span
                     class="group inline-block rounded-full border px-3 py-1 text-xs font-medium peer-checked:bg-black peer-checked:text-white">
-                    Cobalt Blue
+                    Silk
                   </span>
                 </label>
               </div>
@@ -184,7 +165,7 @@
               </div>
 
               <button type="submit"
-                class="block rounded bg-green-600 px-5 py-3 text-xs font-medium text-white hover:bg-green-500">
+                class="block rounded-full bg-red-900 px-5 py-3 text-sm font-medium text-white transition hover:bg-red-800">
                 Add to Cart
               </button>
             </div>
