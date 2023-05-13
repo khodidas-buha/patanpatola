@@ -19,7 +19,6 @@
       <ol class="inline-flex items-center space-x-1 md:space-x-3">
         <li aria-current="page">
           <div class="inline-flex items-center">
-
           </div>
           <a href="#"
             class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -69,7 +68,6 @@
         meaning the design laid down in the patola may be torn, but it shall never fade.
       </p>
     </div>
-
   </section>
 
   <section class="container mx-auto px-8 md:px-28 py-8 md:py-16">
@@ -77,11 +75,9 @@
       <div class="bg-white rounded-lg shadow-md">
         <img src="src/img/material1.png" alt="" class="w-full rounded-lg">
       </div>
-
       <div class="bg-white rounded-lg shadow-md">
         <img src="src/img/material2.png" alt="" class="w-full rounded-lg">
       </div>
-
       <div class="bg-white rounded-lg shadow-md">
         <img src="src/img/material3.png" alt="" class="w-full rounded-lg">
       </div>
@@ -93,7 +89,6 @@
       <h1 class="text-center text-red-950 font-bold text-3xl md:text-5xl capitalize mb-8">
         process
       </h1>
-
       <div class="relative grid place-items-center grid-cols-1 lg:grid-cols-2 gap-5">
         <div class="">
           <h1 class=" text-9xl text-red-50 font-black z-0">01</h1>
@@ -192,7 +187,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </section>
 

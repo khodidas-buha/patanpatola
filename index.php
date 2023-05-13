@@ -5,7 +5,6 @@
 
 <body>
   <?php include 'header.php'; ?>
-
   <!-- Hero Slider -->
   <section>
     <div id="home" class="hero-slider owl-carousel owl-theme">
@@ -51,7 +50,6 @@
           Its very appearance lures the connoisseur of fine textiles. It has no reverse side. Both the sides have equal
           intensity of color and design. </p>
       </div>
-
       <div class="relative group">
         <div class="h-96 w-96 bg-center bg-no-repeat bg-cover shadow-xl rounded max-w-full align-middle border-none"
           style="background-image:url('src/img/about.jpg')"></div>
@@ -99,14 +97,12 @@
             </div>
           </div>
         </div>
-
         <!-- Item 2 -->
         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
           <div class="flex flex-wrap items-center">
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Award from Cottage Industries, Baroda State
                 in 1946</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award2.png" alt="" class="rounded-md max-w-full h-auto">
@@ -119,7 +115,6 @@
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">National Award – 1978 by Hon. President
                 NeelamSanjiviya Reddy</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award3.png" alt="" class="rounded-md max-w-full h-auto">
@@ -132,7 +127,6 @@
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">We have been honoured by hon. Minister of
                 Youth service and Cultural Activities, Mr. Manoharsinhji Jadeja in 1983</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award4.png" alt="" class="rounded-md max-w-full h-auto">
@@ -145,7 +139,6 @@
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Vishvakarma Award – 1984 by Prime Minister
                 IndiraGandhi</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award5.png" alt="" class="rounded-md max-w-full h-auto">
@@ -158,7 +151,6 @@
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">National Award – 1987 by hon. President
                 R.VenkatRaman</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award6.png" alt="" class="rounded-md max-w-full h-auto">
@@ -171,7 +163,6 @@
             <div class="w-full sm:w-1/2 p-8">
               <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">Award from Mehsana Art and Culture Society
                 in 1990</h1>
-
             </div>
             <div class="w-full sm:w-1/2 p-6 flex justify-center">
               <img src="src/img/award7.png" alt="" class="rounded-md max-w-full h-auto">
@@ -218,7 +209,6 @@
           weaving technique. Each saree takes months to complete and is a prized possession among collectors of Indian
           textiles.</p>
       </div>
-
       <div class="grid grid-cols-2 md:grid-cols-3 gap-12">
         <div class="grid gap-12">
           <div>
@@ -253,17 +243,6 @@
             <img class="h-auto max-w-full rounded-lg" src="src/img/saree9.png" alt="">
           </div>
         </div>
-        <!-- <div class="grid gap-4">
-          <div>
-            <img class="h-auto max-w-full rounded-lg" src="src/img/saree10.png" alt="">
-          </div>
-          <div>
-            <img class="h-auto max-w-full rounded-lg" src="src/img/saree11.png" alt="">
-          </div>
-          <div>
-            <img class="h-auto max-w-full rounded-lg" src="src/img/saree12.png" alt="">
-          </div>
-        </div> -->
       </div>
   </section>
 

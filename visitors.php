@@ -13,13 +13,11 @@
       <p class="text-4xl text-gray-100 font-bold">Visitors</p>
     </div>
   </section>
-
   <section>
     <div class="h-70 mt-8 flex justify-center items-center">
       <ol class="inline-flex items-center space-x-1 md:space-x-3">
         <li aria-current="page">
           <div class="inline-flex items-center">
-
           </div>
           <a href="#"
             class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -47,41 +45,14 @@
       </ol>
     </div>
   </section>
-
-  <!-- <section class="">
-    <div class="container py-8 px-6 mx-auto">
-      <a class="uppercase tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mb-8" href="#">
-        About Materials
-      </a>
-      <p class="mt-4 mb-4">
-        Traditionally pure silk and natural dyes were used.Since about last 100 years, tradition had given way to the
-        use of fast to bleach and easy to dye chemical colours (dyes). Therefore the use of natural dyes in Patola is
-        discontinued. But since last twenty years again the importance to use of vegetable dyes became the consideration
-        of its eco-friendliness and to maintain the tradition of old natural dyes in Patola.
-      </p>
-      <p class="mt-4 mb-4">
-        We have made many experiments and researches in redeveloping the old indigenous process of using vegetable
-        ingredients to obtain different shades which are fast to bleach and sober and pleasing to eyes.
-      </p>
-      <p class="mt-4 mb-4">
-        Dewelling on the fast colour of the patola, a Gujarat poet wrote; "Padi patole bhat faatey pan phite nahin"
-        meaning the design laid down in the patola may be torn, but it shall never fade.
-      </p>
-    </div>
-
-  </section> -->
-
   <section class="container mx-auto px-4 md:px-8 py-8 md:py-16">
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v1.png "
             class="absolute inset-0  object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
             <p class="text-xl font-bold text-white sm:text-2xl">Mr. Colin Powell</p>
-
             <div class="mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -93,17 +64,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src="src/img/v2.png"
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Shri Amitabh Bachchan</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -115,17 +81,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v3.png"
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Om Puri & Deepti Naval</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -137,17 +98,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v4.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Smt. Anuradha Pondwal</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -159,17 +115,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v5.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Smt. Smriti Irani</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -181,17 +132,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v6.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Shri Pramukh Swamiji </p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -203,17 +149,12 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v7.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Smt. Kamla Beniwal</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -225,12 +166,10 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v8.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
             <p class="text-xl font-bold text-white sm:text-2xl">Smt. Shila Dixit</p>
             <div class="  mt-16 sm:mt-32 lg:mt-32">
@@ -244,7 +183,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v9.png "
@@ -262,7 +200,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v10.png "
@@ -280,7 +217,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v11.png "
@@ -298,7 +234,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v12.png "
@@ -316,7 +251,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v13.png "
@@ -334,7 +268,6 @@
           </div>
         </a>
       </div>
-
       <div class="">
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v14.png  "

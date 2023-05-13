@@ -53,7 +53,7 @@
     <section class="bg-red-50 py-8 my-8">
 
         <div class="container mx-auto">
-            <div class="grid grid-cols-1 md:grid-cols-2">
+            <div class="px-4 grid grid-cols-1 md:grid-cols-2">
                 <div class="flex justify-center items-center">
                     <img src="src/img/aboutpage.jpg" alt="" class="w-full md:w-[30rem] h-auto rounded-xl">
                 </div>
@@ -199,7 +199,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -219,7 +219,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -239,7 +239,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -259,7 +259,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -279,7 +279,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -299,7 +299,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -416,7 +416,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -436,7 +436,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -456,7 +456,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -476,7 +476,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -496,7 +496,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>
@@ -516,7 +516,7 @@
                         fill="white" />
                     <rect y="107.48" width="152" height="152" rx="8" transform="rotate(-45 0 107.48)" fill="white" />
                 </svg>
-                <div class="relative pt-8 px-4 flex items-center justify-center">
+                <div class="relative pt-6 px-8 flex items-center justify-center">
                     <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3"
                         style="background: radial-gradient(black, transparent 60%); transform: rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1); opacity: 0.2;">
                     </div>

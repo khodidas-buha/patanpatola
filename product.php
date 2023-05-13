@@ -5,7 +5,6 @@
 
 <body>
     <?php include 'header.php'; ?>
-
     <section class="flex flex-col justify-center items-center reletive">
         <div class="h-30 bg-gray-500 flex justify-center items-center">
             <img class="max-h-full max-w-full" src="src/img/product.png" alt="">
@@ -19,7 +18,6 @@
             <ol class="inline-flex items-center space-x-1 md:space-x-3">
                 <li aria-current="page">
                     <div class="inline-flex items-center">
-
                     </div>
                     <a href="#"
                         class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -47,13 +45,12 @@
             </ol>
         </div>
     </section>
-    
+
     <section class="px-4 py-8 md:px-12 md:py-24 lg:px-24 lg:py-32">
         <div class="grid  place-items-center grid grid-cols-1 lg:grid-cols-2 gap-5">
             <div class="relative group">
                 <div class="h-96 w-96 bg-center bg-no-repeat bg-cover shadow-xl rounded max-w-full align-middle border-none"
                     style="background-image:url('src/img/product.jpg')"></div>
-
             </div>
             <div class="">
                 <p class="text-gray-600 text-base md:text-lg text-center lg:text-left pb-2">India has a rich and ancient
@@ -82,14 +79,8 @@
                     Scarf
                 </button>
             </div>
-
-
     </section>
-
-
     <?php include 'footer.php'; ?>
-
-
 </body>
 
 </html>

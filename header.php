@@ -4,18 +4,14 @@
 				<div class="flex justify-between">
 					<div class="flex space-x-7">
 						<div>
-							<!-- Website Logo -->
 							<a href="#" class="flex items-center py-4 px-2">
 								<img src="src/img/logo.jpg" alt="Logo" class="h-16 mr-2">
-								<!-- <span class="font-semibold text-black text-lg">Navigation</span> -->
 							</a>
 						</div>
 						<!-- Primary Navbar items -->
 						<div class="hidden md:flex items-center space-x-1">
 							<a href="index.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">Home</a>
 							<a href="about.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">About Us</a>
-							<!-- <a href="product.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">Product</a> -->
-						 	
                             <li class="group relative dropdown">
                                   <a href="product.php" class="py-4 text-black font-semibold hover:text-red-950 transition duration-300">Product</a>
                                   <div class="group-hover:block dropdown-menu absolute hidden h-auto">
@@ -25,7 +21,6 @@
                                       </ul>
                                   </div>
                             </li>
-
                             <a href="awards.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">Awards</a>
 							<a href="materials.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">Materials</a>
 							<a href="visitors.php" class="py-4 px-2 text-black font-semibold hover:text-red-950 transition duration-300">Visitors</a>
@@ -40,15 +35,7 @@
 					<!-- Mobile menu button -->
 					<div class="md:hidden flex items-center">
 						<button class="outline-none mobile-menu-button">
-						<svg class=" w-6 h-6 text-black hover:text-green-500 "
-							x-show="!showMenu"
-							fill="red"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-							stroke-width="2"
-							viewBox="0 0 24 24"
-							stroke="currentColor"
-						>
+						<svg class=" w-6 h-6 text-black hover:text-green-500 "x-show="!showMenu"fill="red"stroke-linecap="round"stroke-linejoin="round"stroke-width="2"viewBox="0 0 24 24"stroke="currentColor">
 							<path d="M4 6h16M4 12h16M4 18h16"></path>
 						</svg>
 					</button>
@@ -69,10 +56,10 @@
 					<li><a href="contact.php" class="block text-sm px-2 py-4 hover:bg-red-50 transition duration-300">Contact Us</a></li>
 				</ul>
 			</div>
+			
 			<script>
 				const btn = document.querySelector("button.mobile-menu-button");
 				const menu = document.querySelector(".mobile-menu");
-
 				btn.addEventListener("click", () => {
 					menu.classList.toggle("hidden");
 				});

@@ -19,7 +19,6 @@
       <ol class="inline-flex items-center space-x-1 md:space-x-3">
         <li aria-current="page">
           <div class="inline-flex items-center">
-
           </div>
           <a href="#"
             class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -72,7 +71,6 @@
           </div>
         </div>
       </nav>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s1.png">
@@ -83,7 +81,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s2.png">
@@ -94,7 +91,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s3.png">
@@ -105,7 +101,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s4.png">
@@ -116,7 +111,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s5.png">
@@ -127,7 +121,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s6.png">
@@ -138,7 +131,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s7.png">
@@ -149,7 +141,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s8.png">
@@ -160,7 +151,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s9.png">
@@ -171,7 +161,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s10.png">
@@ -182,7 +171,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s11.png">
@@ -193,7 +181,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s12.png">
@@ -204,7 +191,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s13.png">
@@ -215,7 +201,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s14.png">
@@ -226,7 +211,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s15.png">
@@ -237,7 +221,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s16.png">
@@ -248,8 +231,6 @@
           </div>
         </a>
       </div>
-
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s17.png">
@@ -260,7 +241,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s18.png">
@@ -271,7 +251,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s19.png">
@@ -282,7 +261,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s20.png">
@@ -293,7 +271,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s21.png">
@@ -304,7 +281,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s22.png">
@@ -315,7 +291,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s23.png">
@@ -326,7 +301,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s24.png">
@@ -337,7 +311,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s25.png">
@@ -348,7 +321,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s26.png">
@@ -370,7 +342,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s28.png">
@@ -381,7 +352,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s29.png">
@@ -392,7 +362,6 @@
           </div>
         </a>
       </div>
-
       <div class="w-full md:w-1/3 xl:w-1/4 p-6 flex flex-col">
         <a href="#">
           <img class="hover:grow hover:shadow-lg rounded-lg" src="src/img/s30.png">
@@ -405,31 +374,7 @@
       </div>
     </div>
   </section>
-
-  <!-- <section class="bg-white py-8">
-    <div class="container py-8 px-6 mx-auto">
-    <a class="uppercase tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mb-8" href="#">
-        About Sarees
-      </a>
-      <p class="mt-8 mb-8">Introducing the exquisite Patan Patoda saree collection, featuring the captivating Navratna
-        Green (CH), Shrikar Bhat (N), and Navratna Bhat Blue (N) saris. Immerse yourself in the rich heritage and
-        timeless beauty of these traditional Indian garments.</p>
-      <p class="mt-8 mb-8">The Navratna Green (CH) saree from the Patan Patoda collection is a true embodiment of
-        elegance and grace. The vibrant green hue is reminiscent of lush emerald gardens, capturing the essence of
-        nature's bounty. Adorned with intricate patterns and delicate motifs, this saree is a masterpiece that showcases
-        the artistry of skilled craftsmen. Crafted with meticulous attention to detail, it exudes a sense of regality
-        and is perfect for special occasions or celebrations.</p>
-      <p class="mt-8 mb-8">Each Patan Patoda saree is a testament to the rich cultural heritage of India, meticulously
-        crafted with a passion for preserving traditional weaving techniques. These saris embody the fusion of art and
-        fashion, making them a cherished possession for every discerning woman. Choose the Navratna Green (CH), Shrikar
-        Bhat (N), or Navratna Bhat Blue (N) saree from this exquisite collection, and revel in the timeless elegance
-        that Patan Patoda has to offer.</p>
-    </div>
-  </section> -->
-
   <?php include 'footer.php'; ?>
-
   <script src="src/script/script.js"></script>
 </body>
-
 </html>

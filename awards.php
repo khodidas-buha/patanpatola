@@ -19,7 +19,6 @@
       <ol class="inline-flex items-center space-x-1 md:space-x-3">
         <li aria-current="page">
           <div class="inline-flex items-center">
-
           </div>
           <a href="#"
             class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -49,9 +48,7 @@
   </section>
 
   <section class="bg-white py-8">
-
     <div class="container py-8 px-6 mx-auto">
-
       <a class="uppercase tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl mb-8" href="#">
         About Awards
       </a>
@@ -78,20 +75,15 @@
         Participated in Haebru Asia Kasuri Road Festival in Okinawa, Japan in November 2000.
       </p>
     </div>
-
   </section>
 
-
-
   <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-4">
-
     <div class="text-center pb-4">
       <h2 class="text-red-950 font-bold text-3xl md:text-4xl capitalize">
         Awards
       </h2>
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5">
-
       <div class="relative p-4 bg-white shadow-md transition duration-300 hover:bg-red-200">
         <div class="absolute inset-0 bg-black opacity-0 transition-opacity hover:opacity-10">
           <div
@@ -180,7 +172,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -188,7 +179,6 @@
         </h3>
         <p class="text-gray-500 px-4">
           National Award – 1987 by hon. President R.VenkatRaman
-
         </p>
       </div>
 
@@ -197,7 +187,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -213,7 +202,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -230,7 +218,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -246,7 +233,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -262,7 +248,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -278,7 +263,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -294,7 +278,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -310,7 +293,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -326,7 +308,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -342,7 +323,6 @@
           <div
             class="flex items-center justify-center h-full text-white text-3xl font-bold transform hover:scale-110 transition-transform"
             style="background-image: url('src/img/icon.png'); background-repeat: no-repeat; background-position: right; background-size: 100px 100px;">
-
           </div>
         </div>
         <h3 class="text-xl font-bold p-4">
@@ -352,9 +332,7 @@
           Received the honour by Chief Minister of Gujarat Smt. Anandiben Patel in 2014
         </p>
       </div>
-
     </div>
-
   </section>
 
   <section class="px-4 sm:px-8 md:px-16 lg:px-24 my-8 sm:my-12 md:my-16 lg:my-24">
@@ -532,9 +510,6 @@
           </p>
         </div>
       </div>
-
-
-
     </div>
   </section>
 

@@ -20,7 +20,6 @@
             <ol class="inline-flex items-center space-x-1 md:space-x-3">
                 <li aria-current="page">
                     <div class="inline-flex items-center">
-
                     </div>
                     <a href="#"
                         class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-red-900 dark:text-gray-400 dark:hover:text-white">
@@ -50,7 +49,6 @@
         </div>
     </section>
 
-    <!-- ====== Contact Section Start -->
     <section class="relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
         <div class="container mx-auto">
             <div class="-mx-4 flex flex-wrap lg:justify-between">
@@ -64,7 +62,6 @@
                             Experience the elegance of Patan Patola sarees. Get in touch with us to explore our
                             exquisite collection and embrace the timeless beauty of authentic handwoven silk sarees.
                         </p>
-
                         <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
                             <div class="mb-8 flex w-full max-w-[370px]">
                                 <div
@@ -95,18 +92,14 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Email Address</h4>
                                     <p class="text-body-color text-base">
-                                    <a href="mailto:patanpatola@gmail.com">patanpatola@gmail.com</a>
+                                        <a href="mailto:patanpatola@gmail.com">patanpatola@gmail.com</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                    <a href="mailto:krusdesigns@gmail.com">krusdesigns@gmail.com</a>
-                                        
+                                        <a href="mailto:krusdesigns@gmail.com">krusdesigns@gmail.com</a>
                                     </p>
                                 </div>
                             </div>
-
-
                         </div>
-
 
                         <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
                             <div class="mb-8 flex w-full max-w-[370px]">
@@ -124,17 +117,16 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Phone Number</h4>
                                     <p class="text-body-color text-base">
-                                      
                                         <a href="tel:+9102766"> +91 02766</a>,
-                                    <a href="tel:232274"> 232274</a>
+                                        <a href="tel:232274"> 232274</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                    <a href="tel:+91231369"> +91 231369</a>,
-                                    <a href="tel:221369"> 221369</a>
-                                      
+                                        <a href="tel:+91231369"> +91 231369</a>,
+                                        <a href="tel:221369"> 221369</a>
                                     </p>
                                 </div>
                             </div>
+
                             <div class="mb-8 flex w-full max-w-[370px]">
                                 <div
                                     class="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]">
@@ -148,18 +140,17 @@
                                 <div class="w-full">
                                     <h4 class="text-dark mb-1 text-xl font-bold">Mobile Number</h4>
                                     <p class="text-body-color text-base">
-                                    <a href="tel:+919898775748"> +91 9898775748</a>
+                                        <a href="tel:+919898775748"> +91 9898775748</a>
                                     </p>
                                     <p class="text-body-color text-base">
-                                    <a href="tel:+91 9979462607"> +91 9979462607</a>
-                                      
+                                        <a href="tel:+91 9979462607"> +91 9979462607</a>
                                     </p>
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
+
                 <div class="w-full px-4 lg:w-1/2 xl:w-5/12">
                     <div class="relative rounded-lg bg-white p-8 shadow-lg sm:p-12">
                         <form action="https://form.webmavens.com/" enctype="multipart/form-data" method="post"
@@ -201,19 +192,17 @@
             </div>
         </div>
     </section>
-    <!-- ====== Contact Section End -->
 
     <section>
-    <div class="container mx-auto">
-        <div class="relative overflow-hidden" style="padding-top: 56.25%;">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.9528382170265!2d72.10279268885496!3d23.855808399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c87976b5493e7%3A0x96969ca58a26f7d1!2sPatan%20Patola%20Heritage!5e0!3m2!1sen!2sin!4v1683885035377!5m2!1sen!2sin"
-                class="absolute top-0 left-0 w-full h-full" style="border:0;" allowfullscreen=""
-                loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="container mx-auto">
+            <div class="relative overflow-hidden" style="padding-top: 56.25%;">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.9528382170265!2d72.10279268885496!3d23.855808399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c87976b5493e7%3A0x96969ca58a26f7d1!2sPatan%20Patola%20Heritage!5e0!3m2!1sen!2sin!4v1683885035377!5m2!1sen!2sin"
+                    class="absolute top-0 left-0 w-full h-full" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
         </div>
-    </div>
-</section>
-
-
+    </section>
 
     <?php include 'footer.php'; ?>
 
