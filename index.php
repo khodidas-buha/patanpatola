@@ -64,7 +64,7 @@
     <div class="flex flex-col justify-center items-center lg:items-start">
       <img class="w-full h-auto mb-8 lg:mb-0 lg:w-96 lg:ml-0 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl rounded-md"
         src="src/img/img-1.png" alt="Workplace" />
-      <img class="w-full h-auto lg:w-96 lg:ml-12 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl" src="src/img/img-2.png" />
+      <img class="w-full h-auto lg:w-96 lg:ml-32 lg:-mt-32 lg:shadow-lg lg:hover:shadow-xl rounded-md" src="src/img/img-2.png" />
     </div>
     <div class="flex flex-col justify-center items-center lg:items-end">
       <h3 class="text-2xl md:text-3xl font-bold mb-4 text-red-950">Visitors</h3>

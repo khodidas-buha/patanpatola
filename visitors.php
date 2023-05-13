@@ -232,10 +232,7 @@
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
 
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Smt. Shila Dixit</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -252,12 +249,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v9.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Mr. Hasan Osmanzi</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -274,12 +267,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v10.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Shri B. Bhattacharya</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -296,12 +285,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v11.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Film Shooting Team</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -318,12 +303,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v12.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Foreign Tv Team</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -340,12 +321,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v13.png "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Foreign Tv Team(NHK,Japan)</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -362,12 +339,8 @@
         <a href="#" class="group relative block bg-black">
           <img alt="Developer" src=" src/img/v14.png  "
             class="absolute inset-0 h-full w-full object-cover opacity-75 transition-opacity group-hover:opacity-50" />
-
           <div class="relative p-4 sm:p-6 lg:p-8">
-
-
             <p class="text-xl font-bold text-white sm:text-2xl">Tony Wayne</p>
-
             <div class="  mt-16 sm:mt-32 lg:mt-32">
               <div
                 class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
@@ -379,13 +352,8 @@
           </div>
         </a>
       </div>
-
-
     </div>
   </section>
-
-
-
   <?php include 'footer.php'; ?>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js'></script>
